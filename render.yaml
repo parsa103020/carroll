@@ -1,4 +1,0 @@
-web:
-  startCommand: "npm start"
-  healthcheckPath: "/"
-  autoDeploy: true
